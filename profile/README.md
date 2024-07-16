@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Post Quantum Qoin 👋
+Qoin is a decentralized anti-quantum AI supercomputing network that uses multiple NIST standard anti-quantum algorithms as the underlying signature algorithm to ensure that blockchain assets are not compromised by quantum computers.
 <!--
 
 **Here are some ideas to get you started:**
