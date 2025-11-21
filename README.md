@@ -1,2 +1,2 @@
 # .github
-Post Quantum Qoin
+Post-Quantum Qoin
